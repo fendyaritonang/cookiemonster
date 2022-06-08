@@ -6,7 +6,7 @@ This application is created for the purpose of demonstration of implementing CRU
 1. Create a new SQL database with name CookieMonster
 2. Update connection string located at appsettings.json according to assigned database
 3. Run the content of SqlSchemaAndData.sql in SSMS under database CookieMonster
-4. Run the web API and go to http://localhost:5000/swagger
+4. Run the web API and go to http://localhost:5000/swagger to test the API functionalities (you don't have to use POSTMAN)
 
 ### Functional feature that haven't been implemented
 - Paging feature when retrieving all cookies
